@@ -1,0 +1,72 @@
+
+*{
+    font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+}
+.title-border{
+border: 2px solid black;
+padding: 15px;
+margin-top: 28px;
+background: rgb(169, 216, 154);
+}
+
+.title-register{
+    font-size: 14px;
+    position: absolute;
+    margin-top: -24px;
+    background-color: white;
+}
+
+label {
+    display:block;
+    color: blue;
+    font-size: 18px;
+
+}
+
+input{
+margin-bottom: 10px;
+border:2px solid orangered;
+}
+
+.checkbox-input{
+    display:inline;
+}
+
+.name-account{
+    margin-bottom:8px;
+}
+
+.title-sexo{
+    margin-bottom: 8px;
+}
+.biograf{
+    vertical-align:8px;
+}
+
+textarea{
+    display:block;
+    margin-bottom: 3px;
+}
+.input-block{
+    display:block;
+}
+
+button{
+    cursor:pointer;
+}
+.button-reset:hover{
+background-color: orange;
+width: 90px;
+height: 50px;
+color: white;
+border:2px solid red;
+}
+.button-submit:hover{
+    background-color: orangered;
+    width: 90px;
+    height: 50px;
+    color: white;
+    border: 2px solid red;
+
+}
